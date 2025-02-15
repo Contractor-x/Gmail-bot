@@ -43,14 +43,6 @@ python gmail bot2.py
 │── README.md        # Project documentation
 ```
 
-## **👨‍💻 Contributors**
-This project was developed as an experimental prototype. Future versions will include more robust features.
-
-## **⭐ Contributing**
-Feel free to **branch, fork, and star** this project! Contributions are welcome to improve functionality and usability.
-
----
-
 ## **📜 License**
 This project is open-source and available under the **MIT License**.
 
