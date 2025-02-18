@@ -11,7 +11,7 @@ This project demonstrates how to integrate the **Google Mail API** to send email
 
 ---
 
-## **✨ Features**
+## **Features**
 ✅ Uses the **Google Mail API** to send emails  
 ✅ Simple and beginner-friendly implementation  
 ✅ Provides a foundation for future enhancements  
