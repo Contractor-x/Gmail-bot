@@ -1,4 +1,4 @@
-# Google Mail API Prototype
+hi# Google Mail API Prototype
 
 This is a **novice-level program** that utilizes the **Google Mail API** to send emails from a **sender's address** to a **recipient's address**.
 
@@ -38,7 +38,7 @@ python gmail bot2.py
 
 ## **Project Structure**
 ```
-📁 Gmail API Project
+Gmail API Project
 │── gmail 2.py   # Main program for sending emails
 │── README.md        # Project documentation
 ```
