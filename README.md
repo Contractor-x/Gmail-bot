@@ -29,7 +29,7 @@ This project demonstrates how to integrate the **Google Mail API** to send email
    pip install --upgrade google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
    ```
 
-### **2️⃣ Run the Program**
+### ** Run the Program**
 ```sh
 python gmail bot2.py
 ```
