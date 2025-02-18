@@ -21,7 +21,7 @@ This project demonstrates how to integrate the **Google Mail API** to send email
 
 ## **How to Use**
 
-### **1️⃣ Set Up Google Mail API**
+### **Set Up Google Mail API**
 1. Enable the **Gmail API** in your **Google Cloud Console**.
 2. Obtain **OAuth 2.0 credentials**.
 3. Install the required Python packages:
