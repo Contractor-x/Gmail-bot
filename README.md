@@ -36,7 +36,7 @@ python gmail bot2.py
 
 ---
 
-## **📂 Project Structure**
+## **Project Structure**
 ```
 📁 Gmail API Project
 │── gmail 2.py   # Main program for sending emails
