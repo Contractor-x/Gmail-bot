@@ -4,7 +4,7 @@ This is a **novice-level program** that utilizes the **Google Mail API** to send
 
 ---
 
-## **🚀 About This Project**
+## **About This Project**
 This project demonstrates how to integrate the **Google Mail API** to send emails programmatically. It serves as a **prototype**, and the final version with enhanced functionality will be released soon.
 
 🔹 **Ensure to replace the placeholder details** with your actual sender and recipient email addresses before running the program.
