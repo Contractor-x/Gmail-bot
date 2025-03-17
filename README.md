@@ -40,8 +40,8 @@ python gmail bot2.py
 ## **Project Structure**
 ```
 Gmail API Project
-│── gmail 2.py   # Main program for sending emails
-│── README.md        # Project documentation
+│── gmail 2.py   # Main program for sending emails.
+│── README.md        # Project documentation..
 ```
 
 ## **📜 License**
