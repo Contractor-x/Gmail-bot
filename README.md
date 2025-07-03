@@ -1,7 +1,7 @@
 # Google Mail API Prototype
 
 
-This is a **novice-level program** that utilizes the **Google Mail API** to send emails from a **sender's address** to a **recipient's address**.
+This is a **Beginner-level program** that utilizes the **Google Mail API** to send emails from a **sender's address** to a **recipient's address**.
 
 ---
 
