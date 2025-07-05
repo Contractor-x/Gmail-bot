@@ -49,4 +49,4 @@ This project is open-source and available under the **MIT License**.
 
 ## ** Developers **
 Developed by Contractor
-https://drive.google.com/drive/folders/1qTUeSAA_ezT5CX85zx4CZng5WwpQGkiQ
+
